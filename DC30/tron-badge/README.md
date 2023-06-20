@@ -1,8 +1,21 @@
-Ironwood Cyber Team - DC30 Tron Badge
-board devs: notthatguy, kimboslice, joehacksalot
-companion app dev: Shiloh
-website devs: LeetPanda, Spaghetti Code
+# Ironwood Cyber Team - DC30  Tron Badge  
 
+## Pcb devs:
+- kimboslice
+- notthatguy
+- joehacksalot
+
+## Embedded Software devs:
+- notthatguy
+- joehacksalot
+
+## Companion app dev: 
+- Shiloh
+
+## website devs:
+- LeetPanda
+- Spaghetti Code  
+  
 Badge Images:
 ![alt text](https://github.com//BadgeMakers/BadgeArchives/blob/main/DC30/tron-badge/badge_back_cyan.jpg?raw=true)
 ![alt text](https://github.com//BadgeMakers/BadgeArchives/blob/main/DC30/tron-badge/badge_cyan_dark_room.jpg?raw=true)
