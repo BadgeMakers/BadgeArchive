@@ -12,7 +12,7 @@
 ## Companion app dev: 
 - Shiloh
 
-## website devs:
+## Website devs:
 - LeetPanda
 - Spaghetti Code  
   
