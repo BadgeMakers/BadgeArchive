@@ -12,4 +12,4 @@ Badge Images:
 ![alt text](https://github.com//BadgeMakers/BadgeArchives/blob/main/DC30/tron-badge/badge_without_inner_ring_diffuser.jpg?raw=true)
 
 Behind the Scenes/Making of the badge Images:
-![alt text](https://github.com//BadgeMakers/BadgeArchives/blob/main/DC30/tron-badge/badge_without_inner_ring_diffuser.jpg?raw=true)
+![alt text](https://github.com//BadgeMakers/BadgeArchives/blob/main/DC30/tron-badge/making_of_badge.jpg?raw=true)
